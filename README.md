@@ -1,1 +1,1 @@
-# librewolf-config
+# LibreWolf-Config
